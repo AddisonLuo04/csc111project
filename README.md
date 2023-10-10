@@ -1,4 +1,4 @@
-<a name="br1"></a> 
+﻿<a name="br1"></a> 
 
 CSC111 Project: Creating a Simple Chess AI
 
